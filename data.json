@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jorge Augusto",
+      "email": "jorge.salhani@usp.br"
+    }
+  ],
+  "products": [
+    {
+      "title": "Produto 1",
+      "price": 180,
+      "id": 1
+    },
+    {
+      "title": "Produto 1",
+      "price": 180,
+      "id": 2
+    },
+    {
+      "title": "Produto 1",
+      "price": "130",
+      "id": 3
+    }
+  ],
+  "orders": [
+    {
+      "data": "2021-06-03T06:29:28.106Z",
+      "id": 1
+    },
+    {
+      "data": "2021-06-03T06:30:11.235Z",
+      "uuid": "c4114b74-f3ba-4210-a819-c5fd4e2c23d6",
+      "id": 2
+    }
+  ]
+}
